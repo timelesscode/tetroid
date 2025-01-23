@@ -1,0 +1,9 @@
+# Ignore LÖVE2D temporary files
+*.love
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings (optional)
+.vscode/
